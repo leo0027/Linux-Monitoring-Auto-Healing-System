@@ -1,0 +1,15 @@
+=============================
+Monitoring Time: Tue May 12 12:35:13 UTC 2026
+CPU Usage: 11.1%
+Memory Usage: 41.10%
+Disk Usage: 34%
+Apache Service Running
+SSH Service Running
+=============================
+Monitoring Time: Tue May 12 12:36:35 UTC 2026
+CPU Usage: 15.6%
+Memory Usage: 41.05%
+Disk Usage: 34%
+Apache Service Down - Restarting
+Apache Restarted Successfully
+SSH Service Running
